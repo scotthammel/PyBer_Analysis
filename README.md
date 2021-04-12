@@ -11,9 +11,9 @@
 
 #### Graph results (preview):
 
-![Fig5](https://user-images.githubusercontent.com/77898345/114328612-c3136480-9b02-11eb-98c4-fc6db12d55e1.png)
+![Fig2](https://user-images.githubusercontent.com/77898345/114328835-695f6a00-9b03-11eb-8ada-e42b8ee6cdb9.png)
 
-![Fig6](https://user-images.githubusercontent.com/77898345/114328614-c60e5500-9b02-11eb-8c70-caf14239e512.png)
+![Fig1](https://user-images.githubusercontent.com/77898345/114328840-6c5a5a80-9b03-11eb-91d7-ccf58c708fd6.png)
 
 ![Fig7](https://user-images.githubusercontent.com/77898345/114328620-c7d81880-9b02-11eb-9ccf-2c326879f906.png)
 
