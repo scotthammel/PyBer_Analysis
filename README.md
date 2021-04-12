@@ -1,6 +1,7 @@
 # PyBer_Analysis
 
 ### Analysis overview
+
 -Our original analysis was on the "type" of city (i.e. Urban, Suburban, Rural). Specifically, the percentage of drivers, the total amount of drivers and average fare are examples of how the data was analyzed.
 
 -The second analysis took a deeper dive into the results on a weekly basis. Specically, we looked into a set date range and filled in all "NaN" data.
@@ -8,6 +9,7 @@
 
 ### Results
 
+-Based on the analysis, Urban city type has the highest total rides and drivers, but the rural city type generates the highest average of fare for drivers.
 
 #### Graph results (preview):
 
@@ -23,8 +25,8 @@
 <img width="872" alt="Screen Shot 2021-04-11 at 8 12 19 PM" src="https://user-images.githubusercontent.com/77898345/114328523-8a738b00-9b02-11eb-9e2e-6244e2b4b536.png">
 
 ### Summary
--Based on the analysis, Urban city type has the highest total rides and drivers, but the rural city type generates the highest average of fare for drivers.
--I reccommend adding more drivers to the rural and suburban areas to keep fare averages reletively low compared to Urban city types.
-- A stronger reccomendation would be to focus business efforts solely on the Urban city market based on the total drivers and number of rides.
+
+- I recommend adding more drivers to the rural and suburban areas to keep fare averages reletively low compared to Urban city types.
+- A stronger recommendation would be to focus business efforts solely on the Urban city market based on the total drivers and number of rides.
 
 <img width="673" alt="Screen Shot 2021-04-11 at 8 22 23 PM" src="https://user-images.githubusercontent.com/77898345/114328935-bba08b00-9b03-11eb-8f14-3bf9a50856f4.png">
