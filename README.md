@@ -23,3 +23,5 @@
 <img width="872" alt="Screen Shot 2021-04-11 at 8 12 19 PM" src="https://user-images.githubusercontent.com/77898345/114328523-8a738b00-9b02-11eb-9e2e-6244e2b4b536.png">
 
 ### Summary
+-Based on the analysis, Urban city type has the highest total rides and drivers, but the rural city type generates the highest average of fare for drivers.
+<img width="673" alt="Screen Shot 2021-04-11 at 8 22 23 PM" src="https://user-images.githubusercontent.com/77898345/114328935-bba08b00-9b03-11eb-8f14-3bf9a50856f4.png">
