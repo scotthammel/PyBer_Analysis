@@ -24,4 +24,7 @@
 
 ### Summary
 -Based on the analysis, Urban city type has the highest total rides and drivers, but the rural city type generates the highest average of fare for drivers.
+-I reccommend adding more drivers to the rural and suburban areas to keep fare averages reletively low compared to Urban city types.
+- A stronger reccomendation would be to focus business efforts solely on the Urban city market based on the total drivers and number of rides.
+
 <img width="673" alt="Screen Shot 2021-04-11 at 8 22 23 PM" src="https://user-images.githubusercontent.com/77898345/114328935-bba08b00-9b03-11eb-8f14-3bf9a50856f4.png">
