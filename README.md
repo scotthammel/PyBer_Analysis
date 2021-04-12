@@ -1,6 +1,9 @@
 # PyBer_Analysis
 
 ### Analysis overview
+-Our original analysis was on the "type" of city (i.e. Urban, Suburban, Rural). Specifically, the percentage of drivers, the total amount of drivers and average fare are examples of how the data was analyzed.
+
+-The second analysis took a deeper dive into the results on a weekly basis. Specically, we looked into a set date range and filled in all "NaN" data.
 
 
 ### Results
